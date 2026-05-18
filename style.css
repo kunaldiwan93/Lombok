@@ -242,7 +242,7 @@ img{
 
 p{
     color: black;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 600;
     text-align: center;
 }
@@ -299,12 +299,13 @@ p{
 .About{
     display: flex;
     flex-direction: column;
-    gap: 0.4rem;
+    gap: 1rem;
     justify-content: center;
     align-items: center;
 }
 
 .Rtext{
+    font-size: 1.2rem;
     text-align: center;
     width: 90vw;
     color: black;
